@@ -105,6 +105,8 @@ db에 존재하는 후보들의 지역 이름이 테이블의 형태로 제시�
 
 - node.js 실행은 $node main.js 이고 localhost3000 페이지 들어가기
 
+- readme는 어떻게 꾸미는 거죠.....?
+
 - git 연결 방법
 
 `git init`
